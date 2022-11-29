@@ -16,7 +16,10 @@ public class Main {
         
         System.out.println("");
         
-        
+        System.out.println("Eae Diego kkkkk"
+                + ""
+                + ""
+                + "");
         System.out.println("Nova linhaaaaaa!");
         System.out.println("1 + 1 é: " + 1+1);
     }
