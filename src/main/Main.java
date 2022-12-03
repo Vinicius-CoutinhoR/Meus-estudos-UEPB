@@ -22,5 +22,10 @@ public class Main {
                 + "");
         System.out.println("Nova linhaaaaaa!");
         System.out.println("1 + 1 é: " + 1+1);
+        System.out.println("1 + 1 é: " + 1+1);
+        System.out.println("1 + 1 é: " + 1+1);
+        System.out.println("1 + 1 é: " + 1+1);
+        System.out.println("1 + 1 é: " + 1+1);
+        System.out.println("1 + 1 é: " + 1+1);
     }
 }
