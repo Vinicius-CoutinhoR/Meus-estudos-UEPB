@@ -1,2 +1,1 @@
-# teste-conexao-github-netbeans
-Teste de conexão entre o NetBeans e o GitHub
+ # Este repositório contém meus estudos tanto da minha universidade, quanto meus estudos pessoais.
