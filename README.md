@@ -1,2 +1,1 @@
-# Este repositório contém meus estudos tanto da minha universidade, quanto meus estudos pessoais.
-
+# Este repositório contém meus estudos em Java.
